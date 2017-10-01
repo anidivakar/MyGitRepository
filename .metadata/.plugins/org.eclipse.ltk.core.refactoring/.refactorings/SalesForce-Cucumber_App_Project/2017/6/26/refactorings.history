@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;login.feature&apos; to &apos;An_Cucumber_Application_App_SalesForce/src/test/resource/com.Cucumber.Selenium.Java.Login&apos;&#x0D;&#x0A;- Original project: &apos;SalesForce-Cucumber_App_Project&apos;&#x0D;&#x0A;- Destination element: &apos;An_Cucumber_Application_App_SalesForce/src/test/resource/com.Cucumber.Selenium.Java.Login&apos;&#x0D;&#x0A;- Original element: &apos;login.feature&apos;" description="Copy file" destination="=An_Cucumber_Application_App_SalesForce/src\/test\/resource&lt;com.Cucumber.Selenium.Java.Login" element1="src/test/resource/com/seleniumwebdriver/SalesForce/Login/login.feature" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1498647278483" units="0" version="1.0"/>
+</session>
